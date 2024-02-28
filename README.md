@@ -1,0 +1,2 @@
+# rdw-tea
+Tea testnet
